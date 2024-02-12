@@ -10,4 +10,5 @@ console.log(account);
 let name ;
 
 console.table([account, accountId,name]);
+ship
 
